@@ -1,0 +1,2 @@
+# Token-ICO-DApp
+Full-stack Web3 DApp for a Token Presale (ICO) — built with Next.js, Ethers.js, and Solidity smart contracts. Users can connect their wallet, purchase tokens during the presale, and track sale progress on-chain.
